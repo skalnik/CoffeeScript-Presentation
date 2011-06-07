@@ -1,0 +1,9 @@
+{ 
+  "name": "CoffeeScript", 
+  "sections": [ 
+    {"section" : "title"},
+    {"section" : "about_me"},
+    {"section" : "coffeescript"},
+    {"section" : "fin"}
+  ]
+}
