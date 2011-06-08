@@ -17,5 +17,5 @@
 
 #Rails 3.1#
 
-* By the way, included in Rails 3.1
+* If you weren't aware, included in Rails 3.1
 * `.coffee` files automatically compiled
