@@ -258,3 +258,19 @@
     {poet: {name, address: [street, city]}} = futurists
     # Will assign name, street, and city properly
 
+
+!SLIDE bullets incremental
+
+ * All that sugar is nice...
+ * But I HATE it!
+ * That's ok
+ * It can help you write better JavaScript
+
+!SLIDE bullets incremental
+
+#What do you mean?#
+ * Compiles `==` into `===`
+ * Automatically adds `var`
+ * Properly scopes variables
+ * Compiles into JSLint compliant code
+
