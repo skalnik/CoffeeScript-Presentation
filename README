@@ -1,0 +1,11 @@
+== A introduction to CoffeeScript
+
+I put this presentation together for the Atlanta Ruby Users Group for our June
+meetup. It's just a basic overview of CoffeeScript, what it can do, and why it's
+awesome.
+
+= How the hell do I view this?
+
+    $ bundle install
+    $ showoff serve
+    $ open http://0.0.0.0:9090
