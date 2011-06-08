@@ -21,6 +21,7 @@
 * Compiles down to JavaScript
 * Brings in ideas from Ruby & Python
 * Whitespace sensitive (Yay! Boo!)
+* Parts are being incorperated into Javascript
 
 !SLIDE
 
