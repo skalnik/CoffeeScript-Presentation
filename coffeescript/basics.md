@@ -4,9 +4,10 @@
 * Coming from Ruby, the syntax can seem ugly
 * The semicolons stab my eyes!
 
-!SLIDE
+!SLIDE center
 
 # CoffeeScript to the rescue! #
+![lolcat](to_the_rescue.jpg)
 
 !SLIDE bullets incremental
 
