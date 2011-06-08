@@ -33,7 +33,7 @@
     
       parseCents: (rawString="") ->
         [dollars, cents] = 
-                rawString.match(/(\d+)/g) ? [0,0]
+              rawString.match(/(\d+)/g) ? [0,0]
         + cents + 100 * dollars
 
 !SLIDE small code
