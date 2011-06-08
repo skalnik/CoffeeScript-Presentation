@@ -45,7 +45,7 @@
       return "Filling " + container + 
              " with " + liquid;
 
-!SLIDE small
+!SLIDE
 
     @@@javascript
     gold = silver = rest = "unknown"
@@ -54,22 +54,6 @@
       silver = second
       rest =   others
     
-##Compiles to: ##
-
-    @@@javascript
-    var awardMedals, gold, silver, rest;
-    var __slice = Array.prototype.slice;
-    gold = silver = rest = "unknown";
-    awardMedals = function() {
-      var first, second, others;
-      first = arguments[0], second = arguments[1], 
-        others = 3 <= arguments.length? 
-        __slide.call(arguments, 2): [];
-      gold = first;
-      silver = second;
-      return rest = others;
-    }
-
 !SLIDE bullets incremental
 
 #Strings#
