@@ -177,22 +177,9 @@
                             'cheese',
                             'wine']
 
-##Compiles to##
-
-    @@@javascript
-    var food, _i, _len, _ref;
-    _ref = ['toast', 'cheese', 'wine'];
-    for(_i = 0, _len = _ref.length; _i < _len;
-                                    _i++) {
-      food = _ref[_i];
-      eat(food);
-    }
-
-!SLIDE
-
-    @@@javascript
     shortNames = (name for name in list 
                            when name.length < 5)
+
     evens = (x for x in [0..10] by 2)
 
 !SLIDE bullets incremental
