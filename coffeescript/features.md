@@ -32,7 +32,7 @@
 
     @@@javascript
     fill = (container, liquid="coffee") ->
-      "Filling #{contained} with #{liquid}"
+      "Filling #{container} with #{liquid}"
 
 ##Compiles to:##
     
@@ -194,7 +194,7 @@
     class Animal
       constructor: (@name) ->
 
-      move: (meter) ->
+      move: (meters) ->
         alert @name + " moved " + meters + "m."
 
     class Snake extends Animal
