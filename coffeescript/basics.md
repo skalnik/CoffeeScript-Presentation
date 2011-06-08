@@ -12,7 +12,7 @@
 
 # CoffeeScript #
 
-* "It's just Javascript"
+* "It's just JavaScript"
 * Similar to haml for HTML
 * or sass for CSS
 
@@ -21,7 +21,7 @@
 * Compiles down to JavaScript
 * Brings in ideas from Ruby & Python
 * Whitespace sensitive (Yay! Boo!)
-* Parts are being incorperated into Javascript
+* Parts are being incorporated into JavaScript
 
 !SLIDE
 
